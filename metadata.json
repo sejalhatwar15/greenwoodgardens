@@ -1,0 +1,8 @@
+{
+  "name": "Greenwood Gardens",
+  "description": "An elegant light-themed botanical garden and historic estate sanctuary featuring Italianate terraces, tranquil reflecting pools, and seasonal blooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
